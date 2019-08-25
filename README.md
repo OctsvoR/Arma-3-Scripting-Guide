@@ -16,4 +16,4 @@ This guide covers essential topics relating to Arma 3 scripting. Here is the lis
 
 Well, enough mentioning, **let's get started!**
 
-# [Start](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
+# [Let's Get Started!](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
