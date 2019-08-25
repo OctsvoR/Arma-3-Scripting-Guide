@@ -17,3 +17,7 @@ This guide covers essential topics relating to Arma 3 scripting. Here is the lis
 Well, enough mentioning, **let's get started!**
 
 ### [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
+### [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
+### [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
+### [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
+### [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
