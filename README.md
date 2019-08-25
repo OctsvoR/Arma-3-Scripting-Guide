@@ -1,7 +1,5 @@
 # Arma 3 Scripting Guide (WIP)
 
-# [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
-
 This is a practical Arma 3 scripting guide.
 
 This guide covers essential topics relating to Arma 3 scripting. Here is the list of what topics are covered in this guide:
@@ -18,4 +16,4 @@ This guide covers essential topics relating to Arma 3 scripting. Here is the lis
 
 Well, enough mentioning, **let's get started!**
 
-# [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
+# [Start](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
