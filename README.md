@@ -15,5 +15,4 @@ This guide covers essential topics relating to Arma 3 scripting. Here is the lis
 - 2 plus 2 is 4 - A guide on some math.
 
 Well, enough mentioning, let's get to the wiki!
-
 ### [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
