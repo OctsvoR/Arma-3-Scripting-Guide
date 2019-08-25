@@ -14,6 +14,6 @@ This guide covers essential topics relating to Arma 3 scripting. Here is the lis
 - GUI - A guide on how to create GUIs that user can interact with it.
 - 2 plus 2 is 4 - A guide on some math.
 
-Well, enough mentioning, **let's get started**!
+Well, enough mentioning, **let's get started!**
 
 ### [Wiki](https://github.com/OctsvoR/Arma-3-Scripting-Guide/wiki)
