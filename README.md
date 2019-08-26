@@ -2,7 +2,7 @@
 
 This is a practical Arma 3 scripting guide.
 
-This guide covers some important topic relating to Arma 3 scripting. Here is the list of what topics are covered in this guide:
+This guide covers important topics relating to Arma 3 scripting. Here is the list of what topics are covered in this guide:
 - Hello World! - A guide on how to create our first Hello World script.
 - Variables - A guide on how to set up variables to store values in it.
 - Text Formatting - A guide on how to format text.
